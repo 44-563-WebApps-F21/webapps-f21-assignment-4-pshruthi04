@@ -57,7 +57,7 @@ tr:nth-child(even) {
     background-color: burlywood;
 
 }
-.name:hover{
+.name:hover {
     text-shadow: 2px 4px 3px yellowgreen;
     color:lightskyblue(0, 195, 255);
     filter: blur(3px);
